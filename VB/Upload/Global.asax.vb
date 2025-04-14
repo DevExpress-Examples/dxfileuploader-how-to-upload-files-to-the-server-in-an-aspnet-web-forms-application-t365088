@@ -6,10 +6,10 @@ Imports System.Web.Security
 Imports System.Web.SessionState
 
 Namespace Upload
-    Public Class [Global]
-        Inherits System.Web.HttpApplication
+	Public Class [Global]
+		Inherits System.Web.HttpApplication
 
-        Protected Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
-        End Sub
-    End Class
+		Protected Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
+		End Sub
+	End Class
 End Namespace

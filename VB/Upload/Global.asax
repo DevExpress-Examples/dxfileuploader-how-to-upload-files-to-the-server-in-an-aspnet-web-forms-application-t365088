@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="Upload.Global" Language="vb" %>
+<%@ Application Codebehind="Global.asax.vb" Inherits="Upload.Global" Language="VB" %>

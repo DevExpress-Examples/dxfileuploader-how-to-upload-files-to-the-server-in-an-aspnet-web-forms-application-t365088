@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="Upload.Default" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="Upload.Default" %>
 
 <!DOCTYPE html>
 
@@ -28,18 +28,17 @@
             buttonText: 'Select file',
             labelText: 'Drop file here',
             multiple: true,
-            accept: 'image//',
-//            uploadUrl: 'http://localhost:62539/Uploader.ashx'
-//        });
-//
-//        $("#formUploadContainer").dxFileUploader({
-//            buttonText: 'Select file',
-//            labelText: 'Drop file here',
-//            multiple: true,
-//            accept: 'image/*',
-//            uploadMode: 'useForm'
-//        });
-//    </script>
-//</body>
-//</html>
-//
+            accept: 'image/*',
+            uploadUrl: 'http://localhost:62539/Uploader.ashx'
+        });
+
+        $("#formUploadContainer").dxFileUploader({
+            buttonText: 'Select file',
+            labelText: 'Drop file here',
+            multiple: true,
+            accept: 'image/*',
+            uploadMode: 'useForm'
+        });
+    </script>
+</body>
+</html>
