@@ -24,7 +24,7 @@ This example demonstrates how to upload files to the server by using the dxFileU
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
-[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dxfileuploader-how-to-upload-files-to-the-server-in-an-aspnet-web-forms-application-t365088&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dxfileuploader-how-to-upload-files-to-the-server-in-an-aspnet-web-forms-application-t365088&~~~was_helpful=no)
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dxfileuploader-how-to-upload-files-to-the-server-in-an-aspnet-web-forms-application&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dxfileuploader-how-to-upload-files-to-the-server-in-an-aspnet-web-forms-application&~~~was_helpful=no)
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
