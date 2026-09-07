@@ -1,25 +1,25 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128584340/24.2.1%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T365088)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
-<!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+# DevExtreme File Uploader — Upload Files in ASP.NET Web Forms Applications
 
-* **[Default.aspx](./CS/Upload/Default.aspx) (VB: [Default.aspx](./VB/Upload/Default.aspx))**
+This example adds the [DevExtreme FileUploader widget](https://js.devexpress.com/jQuery/Documentation/ApiReference/UI_Components/dxFileUploader/) to an ASP.NET Web Forms application and uploads files to the server using two strategies:
+
+* A custom [HTTP Handler](href="https://msdn.microsoft.com/en-us/library/bb398986.aspx)
+* Form submit
+
+## Files to Review
+
+* [Default.aspx](./CS/Upload/Default.aspx) (VB: [Default.aspx](./VB/Upload/Default.aspx))
 * [Default.aspx.cs](./CS/Upload/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Upload/Default.aspx.vb))
 * [SaveFilesHelper.cs](./CS/Upload/SaveFilesHelper.cs) (VB: [SaveFilesHelper.vb](./VB/Upload/SaveFilesHelper.vb))
 * [UploadHandler.cs](./CS/Upload/UploadHandler.cs) (VB: [UploadHandler.vb](./VB/Upload/UploadHandler.vb))
 * [Web.config](./CS/Upload/Web.config) (VB: [Web.config](./VB/Upload/Web.config))
-<!-- default file list end -->
-# dxFileUploader - How to upload files to the server in an ASP.NET Web Forms application
 
+## Documentation
 
-This example demonstrates how to upload files to the server by using the dxFileUploader widget in an ASP.NET WebForms application. Two approaches are illustrated:<br><br>1) Uploading files by using a custom <a href="https://msdn.microsoft.com/en-us/library/bb398986.aspx">HTTP Handler</a>.<br>2) Uploading files when the form is submitted.<br><br><strong>See also:</strong><br><a href="https://www.devexpress.com/Support/Center/p/T365089">T365089: dxFileUploader - How to upload files to the server in an ASP.NET MVC application</a>
+* [DevExtreme File Uploader](https://js.devexpress.com/jQuery/Documentation/ApiReference/UI_Components/dxFileUploader/)
 
-<br/>
+## More Examples
 
+* [DevExtreme File Uploader — Upload Files in ASP.NET MVC applications](https://github.com/DevExpress-Examples/dxfileuploader-upload-files-in-aspnet-mvc-application)
 
 <!-- feedback -->
 ## Does This Example Address Your Development Requirements/Objectives?
