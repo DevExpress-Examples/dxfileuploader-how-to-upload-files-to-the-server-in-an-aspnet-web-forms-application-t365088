@@ -8,7 +8,7 @@
 
 This example adds the [DevExtreme FileUploader widget](https://js.devexpress.com/jQuery/Documentation/ApiReference/UI_Components/dxFileUploader/) to an ASP.NET Web Forms application and uploads files to the server using two strategies:
 
-* A custom [HTTP Handler](href="https://msdn.microsoft.com/en-us/library/bb398986.aspx)
+* A custom [HTTP Handler](https://msdn.microsoft.com/en-us/library/bb398986.aspx)
 * Form submit
 
 ## Files to Review
